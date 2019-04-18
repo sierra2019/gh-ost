@@ -1,5 +1,5 @@
 drop table if exists gh_ost_test;
-create table gh_ost_test (
+create table gh_ost_test ( 204,ghost
   id int auto_increment,
   t1 varchar(128)  charset latin1 collate latin1_swedish_ci,
   t2 varchar(128)  charset latin1 collate latin1_swedish_ci,
